@@ -2,9 +2,11 @@ from markdown import markdown
 import pdfkit
 import codecs
 
-input_filename = 'README.md'
+# input_filename = 'README.md'
+input_filename = '6aika-ostolaskuohje.md'
+
 html_template_filename = 'html_template.html'
-output_filename = 'README.pdf'
+output_filename = '6aika-ostolaskuohje.pdf'
 css = ['6aika.css', ]
 
 with codecs.open(html_template_filename, 'r', encoding='utf8') as f:
@@ -12,9 +14,6 @@ with codecs.open(html_template_filename, 'r', encoding='utf8') as f:
 
 with codecs.open(input_filename, 'r', encoding='utf8') as f:
     html_text = markdown(f.read(), output_format='html4')
-
-#print html_text 
-#print html_template 
 
 html = html_template.replace('###CONTENT###', html_text)
 
