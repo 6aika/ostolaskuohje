@@ -1,7 +1,9 @@
-Kuntien ostolaskujen avaamisohje 
-================================
+Kuntien ostolaskujen avaamisohje (DRAFT)
+========================================
 
-Versio 0.3, päivitetty 26.11.2015 klo 10:00.
+Versio 0.3, päivitetty 1.12.2015 klo 16:00.
+
+HUOM: tämä ei ole vielä lopullinen versio. Katso kommentointiohje alta.
 
 Nämä ohjeet on tehty Kuutoskaupunkien (Helsinki, Espoo, Vantaa, Tampere,
 Turku ja Oulu) ja Kuntaliiton yhteistyönä.
