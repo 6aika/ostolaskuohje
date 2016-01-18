@@ -1,0 +1,6 @@
+# Manage python modules
+pip-tools
+# Create PDFs from markdown formatted files
+markdown
+pdfkit
+
