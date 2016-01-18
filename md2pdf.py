@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-
+
 from markdown import markdown
 import pdfkit
 import codecs
@@ -17,7 +19,7 @@ with codecs.open(input_filename, 'r', encoding='utf8') as f:
 
 html = html_template.replace('###CONTENT###', html_text)
 
-print html
+print(html)
 
 options = {
     'page-size': 'A4',
@@ -29,4 +31,9 @@ options = {
     'no-outline': None
 }
 
-pdfkit.from_string(html, output_filename, options=options, css=css)
+try:
+	pdfkit.from_string(html, output_filename, options=options, css=css)
+except IOError as err:
+	print('\n\n\n\nERROR: {}'.format(err))
+	exit()
+
