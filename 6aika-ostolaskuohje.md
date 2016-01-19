@@ -23,10 +23,11 @@ Ostolaskun avaajan askelet
 --------------------------
 
 Poista aineistosta yksityisten elinkeinonharjoittajien eli 
-ns. toiminimiyrittäjien laskut. Toiminimet ovat yleensä luonnollisia 
-henkilöitä, ja niiden julkaiseminen ei ole sopusoinnussa henkilötietolain
-kanssa. Niiden julkaiseminen saattaa johtaa henkilörekisterin muodostumiseen.
-Siksi tässä vaiheessa on varminta poistaa ne aineistosta.
+ns. toiminimiyrittäjien laskut. Toiminimet ovat yleensä luonnollisia henkilöitä, 
+ja niiden julkaiseminen saattaa johtaa henkilörekisterin muodostumiseen.
+Siksi tässä vaiheessa on varminta poistaa ne aineistosta. 
+Asiasta on pyydetty lausuntoa tietosuojavaltuutetulta. 
+Kun se saadaan, päivitämme ohjeen ja ilmoitamme asiasta.
 
 Varmista, että ostolaskuaineistossa on vähintään tässä ohjeessa mainitut kentät.
 Kaikki lisätiedot on tervetulleita, joten mitään ei kannata suodattaa pois
