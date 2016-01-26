@@ -13,7 +13,8 @@ http://ocds.open-contracting.org/standard/r/1__0__RC/en/schema/reference/#transa
 
 Kun avaat ostolaskuja, julkaise myös kuntasi tililuettelo ja tilien kirjausohje.
 Näin aineiston hyödyntäjä ymmärtää paremmin, mistä eri kentissä on kyse.
-Ostolaskut voi hyvin avata Excel-muotoisena tiedostona.
+Ostolaskut kannattaa avata koneluettavassa ja valmistajariippumattomassa CSV-tiedostomuodossa. 
+Tämän lisäksi ne voi avata esimerkiksi Excel-muodossa.
 
 Voit kommentoida tätä ohjetta Githubissa tai lähettämällä kommentit
 sähköpostilla osoitteeseen aapo.rista at forumvirium.fi. 
@@ -35,7 +36,7 @@ siksi, että sitä ei ole tässä ydinvalikoimassa mainittu.
 
 Julkaise kentät samassa järjestyksessä kuin tässä ohjeessa. 
 Mikäli julkaistavassa aineistossa on enemmän tietoja kuin ydinvalikoimassa,
-järjestä kentät Excelin loppuun.
+järjestä kentät taulukon loppuun.
 Jos johonkin kenttään ei löydy tietoa, jätä se tyhjäksi.
 Käytä ainoastaan yhtä otsikkoriviä ja aloita laskudata suoraan riviltä 2.
 Esimerkki: https://goo.gl/luok3l 
