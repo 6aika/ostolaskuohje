@@ -1,7 +1,7 @@
 Kuntien ostolaskujen avaamisohje (DRAFT)
 ========================================
 
-Versio 0.3, päivitetty 1.12.2015 klo 16:00.
+Versio 0.4, päivitetty 26.1.2016 klo 08:29.
 
 HUOM: tämä ei ole vielä lopullinen versio. Katso kommentointiohje alta.
 
