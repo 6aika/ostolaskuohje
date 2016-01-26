@@ -39,7 +39,7 @@ Mikäli julkaistavassa aineistossa on enemmän tietoja kuin ydinvalikoimassa,
 järjestä kentät taulukon loppuun.
 Jos johonkin kenttään ei löydy tietoa, jätä se tyhjäksi.
 Käytä ainoastaan yhtä otsikkoriviä ja aloita laskudata suoraan riviltä 2.
-Esimerkki: https://goo.gl/luok3l 
+Esimerkki: https://goo.gl/OOfD49
 
 Lisensoi aineiston käyttö Creative Commons 4.0 -lisenssillä (CC BY 4.0):
 https://creativecommons.org/licenses/by/4.0/legalcode.fi 
