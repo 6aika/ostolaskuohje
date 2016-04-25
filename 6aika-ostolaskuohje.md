@@ -3,7 +3,7 @@ Kuntien ostolaskujen avaamisohje (DRAFT)
 
 HUOM: tämä versio siirtyy muualle 11.3. Älä viittaa tähän enää muualla.
 
-Versio 0.4.1, päivitetty 4.4.2016 klo 13:19.
+Versio 0.4.2, päivitetty 25.4.2016 klo 12:00.
 
 Nämä ohjeet on tehty Kuutoskaupunkien (Helsinki, Espoo, Vantaa, Tampere,
 Turku ja Oulu) ja Kuntaliiton yhteistyönä.
@@ -80,10 +80,10 @@ Vapaaehtoiset kentät
 * Tilausnumero
 * Toimittajan numero
 * Kumppaniyhtiö
-  * Kumppanin id
-  * Kumppanin selkokielinen nimi
+    * Kumppanin id
+    * Kumppanin selkokielinen nimi
 * Kumppaniryhmä
-  * Esim. sisäinen vai ulkoinen osto
-  * Tarkempi erittely: tytäryhtiöt ja säätiöt, valtio jne.
-  * Kumppaniryhmän selkokielinen nimi
+    * Esim. sisäinen vai ulkoinen osto
+    * Tarkempi erittely: tytäryhtiöt ja säätiöt, valtio jne.
+    * Kumppaniryhmän selkokielinen nimi
 
